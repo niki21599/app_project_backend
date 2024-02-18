@@ -141,36 +141,42 @@
       "id": 1, 
       "question":"Frage 1", 
       "rightAnswer": "Frage 1", 
+      "step": 0,
       "learningField_id": 1
     },
     {
       "id": 2, 
       "question":"Frage 2", 
       "rightAnswer": "Frage 2", 
+      "step": 0,
       "learningField_id": 2
     },
     {
       "id": 3, 
       "question":"Frage 3", 
       "rightAnswer": "Frage 3", 
+      "step": 0,
       "learningField_id": 3
     },
     {
       "id": 4, 
       "question":"Frage 4", 
       "rightAnswer": "Frage 4", 
+      "step": 0,
       "learningField_id": 4
     },
     {
       "id": 5, 
       "question":"Frage 5", 
       "rightAnswer": "Frage 5", 
+      "step": 0,
       "learningField_id": 5
     },
     {
       "id": 6, 
       "question":"Frage 6", 
       "rightAnswer": "Frage 6", 
+      "step": 0,
       "learningField_id": 6
     }
   ]
