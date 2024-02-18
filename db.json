@@ -1,47 +1,17 @@
 {
-  
-  "learningFields": [
-    {
-      "id": 1,
-      "name": "Lernfeld 1"
-    },
-    {
-      "id": 2,
-      "name": "Lernfeld 2"
-    },
-    {
-      "id": 3,
-      "name": "Lernfeld 3"
-    },
-    {
-      "id": 4,
-      "name": "Lernfeld 4"
-    },
-    {
-      "id": 5,
-      "name": "Lernfeld 5"
-    },
-    {
-      "id": 6,
-      "name": "Lernfeld 6"
-    },
-    {
-      "id": 7,
-      "name": "Lernfeld 6"
-    }
-  ], 
+   
   "videos": [
     {
       "id": 1, 
       "name": "Video 1",
       "learningField_id": 1, 
-      "isComplete": false
+      "isComplete": true
     }, 
     {
       "id": 2, 
       "name": "Video 2",
       "learningField_id": 1, 
-      "isComplete": false
+      "isComplete": true
     }, 
     {
       "id": 3, 
@@ -86,12 +56,12 @@
       "isComplete": false
     }
   ],
-  "multipleAnswerQuestions": [
+  "questions": [
     {
       "id": 1, 
       "type": 1,
       "question": "Frage 1", 
-      "step": 0, 
+      "step": 3, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
       "learningField_id": 1
@@ -100,7 +70,7 @@
       "id": 2, 
       "type": 1,
       "question": "Frage 2", 
-      "step": 0, 
+      "step": 3, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
       "learningField_id": 1
@@ -109,7 +79,7 @@
       "id": 3, 
       "type": 1,
       "question": "Frage 3", 
-      "step": 0, 
+      "step": 1, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
       "learningField_id": 2
@@ -118,7 +88,7 @@
       "id": 4, 
       "type": 1,
       "question": "Frage 4", 
-      "step": 0, 
+      "step": 1, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
       "learningField_id": 2
