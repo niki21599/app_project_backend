@@ -54,6 +54,24 @@
       "name": "Video 9",
       "learningField_id": 4, 
       "isComplete": false
+    }, 
+    {
+      "id": 10, 
+      "name": "Video 10",
+      "learningField_id": 5, 
+      "isComplete": false
+    }, 
+    {
+      "id": 11, 
+      "name": "Video 11",
+      "learningField_id": 6, 
+      "isComplete": false
+    }, 
+    {
+      "id": 12, 
+      "name": "Video 12",
+      "learningField_id": 7, 
+      "isComplete": false
     }
   ],
   "questions": [
@@ -116,7 +134,7 @@
       "type": 2,
       "question":"Frage 1", 
       "rightAnswer": "Frage 1", 
-      "step": 0,
+      "step": 3,
       "learningField_id": 1
     },
     {
@@ -158,6 +176,14 @@
       "rightAnswer": "Frage 6", 
       "step": 0,
       "learningField_id": 6
+    },
+    {
+      "id": 7, 
+      "type": 2,
+      "question":"Frage 7", 
+      "rightAnswer": "Frage 7", 
+      "step": 0,
+      "learningField_id": 7
     }
   ]
 }
