@@ -89,6 +89,7 @@
   "multipleAnswerQuestions": [
     {
       "id": 1, 
+      "type": 1,
       "question": "Frage 1", 
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
@@ -97,6 +98,7 @@
     }, 
     {
       "id": 2, 
+      "type": 1,
       "question": "Frage 2", 
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
@@ -105,6 +107,7 @@
     }, 
     {
       "id": 3, 
+      "type": 1,
       "question": "Frage 3", 
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
@@ -113,6 +116,7 @@
     }, 
     {
       "id": 4, 
+      "type": 1,
       "question": "Frage 4", 
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
@@ -121,6 +125,7 @@
     }, 
     {
       "id": 5, 
+      "type": 1,
       "question": "Frage 5", 
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
@@ -129,16 +134,16 @@
     }, 
     {
       "id": 6, 
+      "type": 1,
       "question": "Frage 6", 
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
       "learningField_id": 3
-    }
-  ],
-  "openAnswerQuestion": [
+    }, 
     {
       "id": 1, 
+      "type": 2,
       "question":"Frage 1", 
       "rightAnswer": "Frage 1", 
       "step": 0,
@@ -146,6 +151,7 @@
     },
     {
       "id": 2, 
+      "type": 2,
       "question":"Frage 2", 
       "rightAnswer": "Frage 2", 
       "step": 0,
@@ -153,6 +159,7 @@
     },
     {
       "id": 3, 
+      "type": 2,
       "question":"Frage 3", 
       "rightAnswer": "Frage 3", 
       "step": 0,
@@ -160,6 +167,7 @@
     },
     {
       "id": 4, 
+      "type": 2,
       "question":"Frage 4", 
       "rightAnswer": "Frage 4", 
       "step": 0,
@@ -167,6 +175,7 @@
     },
     {
       "id": 5, 
+      "type": 2,
       "question":"Frage 5", 
       "rightAnswer": "Frage 5", 
       "step": 0,
@@ -174,6 +183,7 @@
     },
     {
       "id": 6, 
+      "type": 2,
       "question":"Frage 6", 
       "rightAnswer": "Frage 6", 
       "step": 0,
