@@ -34,47 +34,56 @@
     {
       "id": 1, 
       "name": "Video 1",
-      "learnignField_id": 1
+      "learningField_id": 1, 
+      "isComplete": false
     }, 
     {
       "id": 2, 
       "name": "Video 2",
-      "learnignField_id": 1
+      "learningField_id": 1, 
+      "isComplete": false
     }, 
     {
       "id": 3, 
       "name": "Video 3",
-      "learnignField_id": 2
+      "learningField_id": 2, 
+      "isComplete": false
     }, 
     {
       "id": 4, 
       "name": "Video 4",
-      "learnignField_id": 3
+      "learningField_id": 3, 
+      "isComplete": false
     }, 
     {
       "id": 5, 
       "name": "Video 5",
-      "learnignField_id": 3
+      "learningField_id": 3, 
+      "isComplete": false
     }, 
     {
       "id": 6, 
       "name": "Video 6",
-      "learnignField_id": 3
+      "learningField_id": 3, 
+      "isComplete": false
     }, 
     {
       "id": 7, 
       "name": "Video 7",
-      "learnignField_id": 4
+      "learningField_id": 4, 
+      "isComplete": false
     }, 
     {
       "id": 8, 
       "name": "Video 8",
-      "learnignField_id": 4
+      "learningField_id": 4, 
+      "isComplete": false
     }, 
     {
       "id": 9, 
       "name": "Video 9",
-      "learnignField_id": 4
+      "learningField_id": 4, 
+      "isComplete": false
     }
   ],
   "multipleAnswerQuestions": [
@@ -84,7 +93,7 @@
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
-      "learnignField_id": 1
+      "learningField_id": 1
     }, 
     {
       "id": 2, 
@@ -92,7 +101,7 @@
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
-      "learnignField_id": 1
+      "learningField_id": 1
     }, 
     {
       "id": 3, 
@@ -100,7 +109,7 @@
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
-      "learnignField_id": 2
+      "learningField_id": 2
     }, 
     {
       "id": 4, 
@@ -108,7 +117,7 @@
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
-      "learnignField_id": 2
+      "learningField_id": 2
     }, 
     {
       "id": 5, 
@@ -116,7 +125,7 @@
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
-      "learnignField_id": 3
+      "learningField_id": 3
     }, 
     {
       "id": 6, 
@@ -124,7 +133,7 @@
       "step": 0, 
       "possibleAnswers": ["Anwort 1", "Antwort 2", "Antwort 3", "Antwort 4"], 
       "rightAnswers": [1, 2], 
-      "learnignField_id": 3
+      "learningField_id": 3
     }
   ],
   "openAnswerQuestion": [
